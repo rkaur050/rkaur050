@@ -4,7 +4,8 @@ Hi 👋 My name is Ramanpreet Kaur
 Web Developer
 -------------
 
-A passionate web developer currently in pre-final year of B.Tech in Computer Science and Engineering at NIT Hamirpur. I specialize in building dynamic, user-friendly web applications with a strong focus on React.js. I love the journey of software development, from ideation to bringing concepts to life as real, functional products. I am committed to continuous learning and growth, and I strive to contribute to innovative projects while collaborating with like-minded professionals. My goal is to use my technical expertise and creativity to develop impactful software solutions. Outside of coding, I'm a food enthusiast and a music lover, always on the lookout for new flavors and sounds.
+A passionate web developer currently in pre-final year of B.Tech in Computer Science and Engineering at NIT Hamirpur. I specialize in building dynamic, user-friendly web applications with a strong focus on React.js. I love the journey of software development, from ideation to bringing concepts to life as real, functional products. I am committed to continuous learning and growth, and I strive to contribute to innovative projects while collaborating with like-minded professionals. My goal is to use my technical expertise and creativity to develop impactful software solutions. 
+Outside of coding, I'm a food enthusiast and a music lover, always on the lookout for new flavors and sounds.
 
 * 🌍  I'm based in Himachal Pradesh, India
 * ✉️  You can contact me at [ramank25j@gmail.com](mailto:ramank25j@gmail.com)
