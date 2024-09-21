@@ -7,8 +7,8 @@ Software Developer
 * **Education**: Final year B.Tech in Computer Science and Engineering at NIT Hamirpur.
 * **Focus Areas**: Actively learning and implementing various technologies, including web development, machine learning, and backend systems.
 * **Current Learning**:
-- Machine Learning
-- Neural Networks
+ - Machine Learning
+ - Neural Networks
 * **Passionate About**: Constantly learning and growing through hands-on projects and exploring new technologies to build impactful solutions.
 * **Interests**: Food enthusiast, music lover, always exploring new flavors and sounds.
 
